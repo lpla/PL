@@ -1,0 +1,6 @@
+suma(1,2)
+prod(3,4)
+suma(1,prod(2,3))
+resta(suma(1,2),3)
+suma(prod(1,2),3)
+suma(suma(resta(1,2),div(prod(4,5),6)),3)
